@@ -1,0 +1,23 @@
+[2022-07-02 20:58:34.665] [exthost] [info] Extension host with pid 18135 started
+[2022-07-02 20:58:34.666] [exthost] [info] Skipping acquiring lock for /home/hostx/.config/Code/User/workspaceStorage/9c0159e7c5f73a1f4cb6e0e509f65d73.
+[2022-07-02 20:58:35.058] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-07-02 20:58:35.320] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-07-02 20:58:35.746] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-07-02 20:58:35.776] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-02 20:58:35.779] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-02 20:58:35.782] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-02 20:58:35.787] [exthost] [info] ExtensionService#_doActivateExtension jigar-patel.OdooSnippets, startup: true, activationEvent: '*'
+[2022-07-02 20:58:35.792] [exthost] [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces, startup: true, activationEvent: '*'
+[2022-07-02 20:58:36.083] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-02 20:58:36.125] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-02 20:58:37.182] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-07-02 20:58:37.358] [exthost] [info] Eager extensions activated
+[2022-07-02 20:58:37.391] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-07-02 20:58:37.492] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-02 20:58:37.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-02 20:58:37.499] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-02 20:58:37.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-07-02 20:58:37.947] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-02 20:58:37.953] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-02 20:58:38.032] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-02 20:58:51.849] [exthost] [info] ExtensionService#_doActivateExtension DotJoshJohnson.xml, startup: false, activationEvent: 'onLanguage:xml'

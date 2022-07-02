@@ -1,0 +1,6 @@
+[2022-07-02 10:55:33.048] [main] [info] update#setState idle
+[2022-07-02 10:55:37.293] [main] [info] Starting extension host with pid 6090 (fork() took 8 ms).
+[2022-07-02 10:56:03.050] [main] [info] update#setState checking for updates
+[2022-07-02 10:56:03.112] [main] [info] update#setState idle
+[2022-07-02 11:51:21.543] [main] [info] Waiting for extension host with pid 6090 to exit.
+[2022-07-02 11:51:21.603] [main] [info] Extension host with pid 6090 exited with code: 0, signal: null.

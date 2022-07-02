@@ -1,0 +1,19 @@
+[Info  - 8:57:35 pm] (17945) Pylance language server 2022.6.30 (pyright 212d1465) starting
+[Info  - 8:57:35 pm] (17945) Server root directory: /home/hostx/.vscode/extensions/ms-python.vscode-pylance-2022.6.30/dist
+Notebook support: Legacy
+[Info  - 8:57:35 pm] (17945) No configuration file found.
+[Info  - 8:57:35 pm] (17945) No pyproject.toml file found.
+[Info  - 8:57:35 pm] (17945) Setting pythonPath for service "custom": "/bin/python3"
+[Warn  - 8:57:35 pm] (17945) stubPath /home/hostx/Documents/odoo_tut_official_documentation/custom/typings is not a valid directory.
+[Info  - 8:57:36 pm] (17945) Assuming Python version 3.8
+[Info  - 8:57:36 pm] (17945) Assuming Python platform Linux
+[Info  - 8:57:37 pm] (17945) Searching for source files
+[Info  - 8:57:37 pm] (17945) Found 8 source files
+[Info  - 8:57:37 pm] (17945) Background analysis(1) root directory: /home/hostx/.vscode/extensions/ms-python.vscode-pylance-2022.6.30/dist
+[Info  - 8:57:37 pm] (17945) Background analysis(1) started
+[Info  - 8:57:37 pm] (17945) Indexer background runner(2) root directory: /home/hostx/.vscode/extensions/ms-python.vscode-pylance-2022.6.30/dist (index)
+[Info  - 8:57:37 pm] (17945) Indexing(2) started
+[Info  - 8:57:47 pm] (17945) [IDX(2)] Long operation: scan packages (9622ms)
+[Info  - 8:57:56 pm] (17945) [IDX(2)] Long operation: index execution environment /home/hostx/Documents/odoo_tut_official_documentation/custom (8789ms)
+[Info  - 8:57:56 pm] (17945) [IDX(2)] Long operation: index libraries /home/hostx/Documents/odoo_tut_official_documentation/custom (18599ms)
+[Info  - 8:57:56 pm] (17945) Indexer done(2). indexed 492 files

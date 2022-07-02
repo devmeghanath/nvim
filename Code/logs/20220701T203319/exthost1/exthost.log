@@ -1,0 +1,102 @@
+[2022-07-01 20:33:23.128] [exthost] [info] Extension host with pid 3904 started
+[2022-07-01 20:33:23.589] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-07-01 20:33:23.651] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-01 20:33:23.655] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-01 20:33:23.658] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-01 20:33:23.664] [exthost] [info] ExtensionService#_doActivateExtension jigar-patel.OdooSnippets, startup: true, activationEvent: '*'
+[2022-07-01 20:33:23.668] [exthost] [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces, startup: true, activationEvent: '*'
+[2022-07-01 20:33:23.725] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-07-01 20:33:24.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-01 20:33:24.114] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-01 20:33:24.250] [exthost] [info] Eager extensions activated
+[2022-07-01 20:33:24.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-01 20:33:24.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-01 20:33:24.329] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-01 20:33:24.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-07-01 20:33:37.226] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-01 20:33:37.242] [exthost] [error] Error: read ECONNRESET
+    at Pipe.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-01 20:33:37.242] [exthost] [error] Error: ENOENT: no such file or directory, open '/home/hostx/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2022-07-01 20:33:37.242] [exthost] [info] Extension host with pid 3904 exiting with code 0
+[2022-07-01 20:33:39.671] [exthost] [info] Extension host with pid 4002 started
+[2022-07-01 20:33:39.671] [exthost] [info] Skipping acquiring lock for /home/hostx/.config/Code/User/workspaceStorage/9c0159e7c5f73a1f4cb6e0e509f65d73.
+[2022-07-01 20:33:39.893] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-07-01 20:33:39.924] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-01 20:33:39.929] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-07-01 20:33:39.935] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-01 20:33:39.943] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-07-01 20:33:40.267] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-01 20:33:40.295] [exthost] [info] Eager extensions activated
+[2022-07-01 20:33:40.556] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-01 20:33:40.568] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-01 20:33:40.572] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-01 20:33:40.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-07-01 20:33:40.710] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-07-01 20:33:40.810] [exthost] [info] ExtensionService#_doActivateExtension jigar-patel.OdooSnippets, startup: false, activationEvent: '*'
+[2022-07-01 20:33:40.813] [exthost] [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces, startup: false, activationEvent: '*'
+[2022-07-01 20:33:51.182] [exthost] [info] ExtensionService#_doActivateExtension DotJoshJohnson.xml, startup: false, activationEvent: 'onLanguage:xml'
+[2022-07-01 20:52:06.484] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-07-01 20:52:07.249] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-07-01 20:52:08.486] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-07-01 20:52:08.766] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-07-01 20:52:09.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-01 20:52:09.454] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-01 20:52:09.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-01 20:52:38.214] [exthost] [error] [ms-python.python] provider FAILED
+[2022-07-01 20:52:38.215] [exthost] [error] Error: name must not be falsy
+    at Function.validate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:99181)
+    at new t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:99130)
+    at new t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:84692)
+    at G (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2277452)
+    at c (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2314637)
+    at Object.t.map (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2314723)
+    at Object.asDocumentSymbols (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2285270)
+    at /home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2223815
+    at o.provideDocumentSymbols (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-07-01 20:52:39.833] [exthost] [error] [ms-python.python] provider FAILED
+[2022-07-01 20:52:39.833] [exthost] [error] Error: name must not be falsy
+    at Function.validate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:99181)
+    at new t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:99130)
+    at new t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:84692)
+    at G (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2277452)
+    at c (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2314637)
+    at Object.t.map (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2314723)
+    at Object.asDocumentSymbols (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2285270)
+    at /home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2223815
+    at o.provideDocumentSymbols (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-07-01 20:52:41.716] [exthost] [error] [ms-python.python] provider FAILED
+[2022-07-01 20:52:41.716] [exthost] [error] Error: name must not be falsy
+    at Function.validate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:99181)
+    at new t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:99130)
+    at new t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:84692)
+    at G (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2277452)
+    at c (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2314637)
+    at Object.t.map (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2314723)
+    at Object.asDocumentSymbols (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2285270)
+    at /home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2223815
+    at o.provideDocumentSymbols (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-07-01 20:52:43.434] [exthost] [error] [ms-python.python] provider FAILED
+[2022-07-01 20:52:43.434] [exthost] [error] Error: name must not be falsy
+    at Function.validate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:99181)
+    at new t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:99130)
+    at new t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:84692)
+    at G (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2277452)
+    at c (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2314637)
+    at Object.t.map (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2314723)
+    at Object.asDocumentSymbols (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2285270)
+    at /home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2223815
+    at o.provideDocumentSymbols (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-07-01 20:52:45.281] [exthost] [error] [ms-python.python] provider FAILED
+[2022-07-01 20:52:45.281] [exthost] [error] Error: name must not be falsy
+    at Function.validate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:99181)
+    at new t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:99130)
+    at new t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:84692)
+    at G (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2277452)
+    at c (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2314637)
+    at Object.t.map (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2314723)
+    at Object.asDocumentSymbols (/home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2285270)
+    at /home/hostx/.vscode/extensions/ms-python.python-2022.8.1/out/client/extension.js:2:2223815
+    at o.provideDocumentSymbols (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-07-01 22:07:11.891] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-01 22:07:12.034] [exthost] [error] Error: ENOENT: no such file or directory, open '/home/hostx/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+[2022-07-01 22:07:12.038] [exthost] [info] Extension host with pid 4002 exiting with code 0

@@ -1,0 +1,3 @@
+[2022-07-01 20:33:23.711] [sharedprocess] [info] Starting worker process with pid 3957 (type: fileWatcher, window: 1).
+[2022-07-01 20:33:37.276] [sharedprocess] [info] Worker process with pid 3957 terminated normally (type: fileWatcher, window: 1).
+[2022-07-01 20:33:38.666] [sharedprocess] [info] Starting worker process with pid 4001 (type: fileWatcher, window: 1).

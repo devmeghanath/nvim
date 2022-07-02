@@ -1,0 +1,21 @@
+[2022-07-02T05:25:44.137Z] Log level: Info
+[2022-07-02T05:25:44.139Z] [info] Validating found git in: git
+[2022-07-02T05:25:44.316Z] [info] Using git 2.25.1 from git
+[2022-07-02T05:25:44.752Z] > git rev-parse --show-toplevel [416ms]
+[2022-07-02T05:25:45.025Z] > git rev-parse --git-dir --git-common-dir [261ms]
+[2022-07-02T05:25:45.031Z] [info] Open repository: /home/hostx/Documents/odoo_tut_official_documentation/custom
+[2022-07-02T05:25:45.192Z] > git status -z -uall [148ms]
+[2022-07-02T05:25:45.251Z] > git symbolic-ref --short HEAD [47ms]
+[2022-07-02T05:25:46.075Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [807ms]
+[2022-07-02T05:25:46.098Z] > git check-ignore -v -z --stdin [42ms]
+[2022-07-02T05:25:46.099Z] > git remote --verbose [5ms]
+[2022-07-02T05:25:46.193Z] > git show --textconv :estate_mod/models/testing.py [32ms]
+[2022-07-02T05:25:46.193Z] > git ls-files --stage -- /home/hostx/Documents/odoo_tut_official_documentation/custom/estate_mod/models/testing.py [20ms]
+[2022-07-02T05:25:46.195Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [112ms]
+[2022-07-02T05:25:46.328Z] > git config --get commit.template [91ms]
+[2022-07-02T06:20:34.039Z] > git ls-files --stage -- /home/hostx/Documents/odoo_tut_official_documentation/custom/estate_mod/views/estate_property_tag.xml [8ms]
+[2022-07-02T06:20:34.051Z] > git cat-file -s 3afe304a600fa23c89aecc7fe1cd6fc35dc9d846 [1ms]
+[2022-07-02T06:20:34.053Z] > git show --textconv :estate_mod/views/estate_property_tag.xml [36ms]
+[2022-07-02T06:20:35.207Z] > git ls-files --stage -- /home/hostx/Documents/odoo_tut_official_documentation/custom/estate_mod/models/estate_property.py [4ms]
+[2022-07-02T06:20:35.234Z] > git show --textconv :estate_mod/models/estate_property.py [46ms]
+[2022-07-02T06:20:35.236Z] > git cat-file -s 579d685b951f1124b343005b750feb10b68ca95f [13ms]

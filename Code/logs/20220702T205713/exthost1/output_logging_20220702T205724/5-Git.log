@@ -1,0 +1,20 @@
+[2022-07-02T15:27:29.926Z] Log level: Info
+[2022-07-02T15:27:29.926Z] [info] Validating found git in: git
+[2022-07-02T15:27:30.128Z] [info] Using git 2.25.1 from git
+[2022-07-02T15:27:30.167Z] > git rev-parse --show-toplevel [12ms]
+[2022-07-02T15:27:31.193Z] > git rev-parse --git-dir --git-common-dir [998ms]
+[2022-07-02T15:27:31.202Z] [info] Open repository: /home/hostx/Documents/odoo_tut_official_documentation/custom
+[2022-07-02T15:27:32.454Z] > git status -z -uall [1237ms]
+[2022-07-02T15:27:32.464Z] > git show --textconv :estate_mod/models/estate_property.py [796ms]
+[2022-07-02T15:27:32.464Z] > git check-ignore -v -z --stdin [26ms]
+[2022-07-02T15:27:32.468Z] > git ls-files --stage -- /home/hostx/Documents/odoo_tut_official_documentation/custom/estate_mod/models/estate_property.py [784ms]
+[2022-07-02T15:27:32.480Z] > git symbolic-ref --short HEAD [16ms]
+[2022-07-02T15:27:32.527Z] > git cat-file -s 579d685b951f1124b343005b750feb10b68ca95f [49ms]
+[2022-07-02T15:27:32.587Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [91ms]
+[2022-07-02T15:27:32.658Z] > git remote --verbose [34ms]
+[2022-07-02T15:27:32.677Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [68ms]
+[2022-07-02T15:27:32.744Z] > git config --get commit.template [50ms]
+[2022-07-02T15:27:38.348Z] > git rev-parse --show-toplevel [15ms]
+[2022-07-02T15:27:38.348Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-02T15:28:09.112Z] > git rev-parse --show-toplevel [10ms]
+[2022-07-02T15:28:09.112Z] fatal: not a git repository (or any of the parent directories): .git

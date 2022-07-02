@@ -1,0 +1,10 @@
+file:///home/hostx/Documents/odoo_tut_official_documentation/custom/estate_mod/models/testing.py {"mtime":1656686753865,"ctime":1656686753865,"size":156,"etag":"39151m68i51","orphaned":false,"typeId":""}
+from ast import In
+from odoo import api,fields,models
+
+class new_mod(models.Model):
+    name=field.Char(default=True)
+    age=fields.Integer(copy=True)
+for i in range(10):
+    len
+
